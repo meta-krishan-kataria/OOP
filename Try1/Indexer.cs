@@ -16,7 +16,7 @@ namespace Try1
         
         // Chnage 3
 
-        //cgghh 4
+        // new
 
         //defining indexer
         public T this[int i]
